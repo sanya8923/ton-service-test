@@ -1,0 +1,5 @@
+{
+  "url": "<app-url>",                        // required
+  "name": "<app-name>",                      // required
+  "iconUrl": "<app-icon-url>",               // required
+}
